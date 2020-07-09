@@ -1,0 +1,8 @@
+h2o
+opencv-python
+numpy
+six==1.14.0
+tensorflow==1.12.0
+matplotlib
+sklearn
+pandas
